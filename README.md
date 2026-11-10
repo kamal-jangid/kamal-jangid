@@ -44,10 +44,10 @@ I'm a Computer Science and Engineering student passionate about Data Analytics, 
 - GitHub: [Kamal Jangid](https://github.com/kamal-jangid)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/kamal-jangid-aa056b2a5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B82IJhc63RjmBdtf8x92iuw%3D%3D)
 
-- ## 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamal-jangid&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=kamal-jangid&show_icons=true&theme=default" height="160"/>
   <img src="https://streak-stats.demolab.com?user=kamal-jangid&theme=default" height="160"/>
 </p>
 
